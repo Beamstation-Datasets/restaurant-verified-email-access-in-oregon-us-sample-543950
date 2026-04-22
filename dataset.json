@@ -6,7 +6,7 @@
   "config_category": "email",
   "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
   "config_name": "Restaurant Verified Email Access in Oregon, US",
-  "export_job_id": "b922b9c9-0447-4ed6-942e-6b8c8ef0ea7b",
+  "export_job_id": "7a99d4b6-c27d-475e-aed4-889b64de4f43",
   "github_org": "Beamstation-Datasets",
   "id_short": 543950,
   "location_name": "Oregon",
@@ -14,9 +14,9 @@
   "repo_name": "restaurant-verified-email-access-in-oregon-us-sample-543950",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/543950/beamstation_543950_restaurants-us-or_SAMPLE_DIST.csv",
   "sample_pct": 9.98,
-  "sample_records": 185,
-  "sample_sha256": "4d873e3b338588685a3b4763b78e33807e1c20a2956a7db48c41e5e36ae0c8c3",
-  "sample_size_bytes": 746698,
-  "total_records": 1853,
-  "updated_at": "2026-04-15T03:59:14.953682+00:00"
+  "sample_records": 165,
+  "sample_sha256": "8d2114abc14922ed223997b5f510dfd8049cde565cd33b875b84a9dc24480a12",
+  "sample_size_bytes": 663952,
+  "total_records": 1653,
+  "updated_at": "2026-04-22T09:21:40.661376+00:00"
 }
