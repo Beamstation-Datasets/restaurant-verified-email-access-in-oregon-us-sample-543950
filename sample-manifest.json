@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7a99d4b6-c27d-475e-aed4-889b64de4f43",
+  "export_job_id": "d87a0bdf-a751-4e80-828e-95d9dbde72c7",
   "id_short": 543950,
-  "published_at": "2026-04-22T19:53:57Z",
+  "published_at": "2026-04-30T07:36:07Z",
   "repo_name": "restaurant-verified-email-access-in-oregon-us-sample-543950",
   "sample_asset_name": "beamstation_543950_restaurants-us-or_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/543950/beamstation_543950_restaurants-us-or_SAMPLE_DIST.csv",
-  "sample_records": 165,
-  "sample_sha256": "8d2114abc14922ed223997b5f510dfd8049cde565cd33b875b84a9dc24480a12",
-  "sample_size_bytes": 663952,
-  "total_records": 1653
+  "sample_records": 241,
+  "sample_sha256": "ad6c8579c0990a6555c79501c6aa50bfc25a8365859cb1545a85ce7e4744673c",
+  "sample_size_bytes": 930760,
+  "total_records": 2413
 }
